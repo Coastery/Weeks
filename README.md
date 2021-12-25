@@ -12,15 +12,11 @@ Readme 항목은 건드리지 않고 자신의 결과물과 느낀점을 자유�
 
 
 # Subjects 🗡️
-2021년 12월 1주차 : 이력서 작성하기 📝 
-
-*자신의 이력서를 pdf로 넣거나, 온라인 링크로 올릴 것
+2021년 12월 4주차 : 2021년 회고 작성  
+- 개발자들은 이거 다 하던데
+- 2021년 회고 외안헤
 
 
 
 # References 🔖
-[유튜브 개발바닥 - 배달의 민족 신입개발자 이력서 영상](https://www.youtube.com/watch?v=Yc56NpYW1DM&ab_channel=%EA%B0%9C%EB%B0%9C%EB%B0%94%EB%8B%A5)
-
-[개발자 이동욱 주니어 개발자 이력서 특강ppt](https://speakerdeck.com/weirdx/99con-junieo-gaebaljayi-iryeogseo-sseugi-idongug)
-
-[개발자 정원희 이력서 관련 칼럼](https://wonny.space/writing/work/engineer-resume)
+X
