@@ -7,6 +7,12 @@ Readme 항목 및 다른 사람부분은 건드리지 않고 자신의 결과물
 - 커밋 위치는 주제에 따라 달라짐  
 - 풀리퀘스트 주세요(개인 커밋은 알림 안 떠서 바꿨습니다)
 
+# Attendees
+|이름|깃허브|
+|------|---|
+|😊 김유민|[Github](https://github.com/yumin2019)|
+|😊 김학동|[Github](https://github.com/Fachidiot)|
+
 
 
 # Subjects 🗡️
