@@ -14,10 +14,10 @@ Readme 항목 및 다른 사람부분은 건드리지 않고 자신의 결과물
 |😊 김학동|[Github](https://github.com/Fachidiot)|
 
 
-
 # Subjects 🗡️
 2022년 1월 1주차 : Fun.D 7기 참가하기
 - 인증샷으로 인증할 것
 
+<img src="https://user-images.githubusercontent.com/49779139/147881309-ee753a68-ca53-41c2-9ae1-d01f6a3e1072.png" width="25%" height="25%">
 # References 🔖
 X
